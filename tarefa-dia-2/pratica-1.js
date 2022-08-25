@@ -1,0 +1,5 @@
+console.log ("Nome")
+console.log ("Email")
+console.log ("Profissão")
+console.log ("Idade")
+console.log ("Pais dos Sonhos")
